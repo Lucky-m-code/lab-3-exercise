@@ -1,0 +1,19 @@
+
+
+footer {
+	color: white;
+
+}
+
+footer > ul > a:hover {
+	text-decoration: none !important;
+}
+.copyright {
+
+	text-align: left;
+}
+
+
+.card {
+	border: none;
+}
