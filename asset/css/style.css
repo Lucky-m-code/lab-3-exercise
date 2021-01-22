@@ -2,18 +2,6 @@
 
 footer {
 	color: white;
-
-}
-
-footer > ul > a:hover {
-	text-decoration: none !important;
-}
-.copyright {
-
-	text-align: left;
-}
-
-
-.card {
-	border: none;
+	
+	background-color: rgb(13, 13, 63);
 }
